@@ -9,6 +9,7 @@ TheFlexTV is your one site to check the details of all your current favourite mo
 ### Movies
 
 ![TheFlexTV Home](./public/readme_img/theflextv_movies.gif)
+
 You can check movies in four different categories
 
 - Now playing
@@ -21,6 +22,7 @@ You can visit each section and check all the movies from this categories. The ca
 ### TV Shows
 
 ![TheFlexTV Home](./public/readme_img/theflextv_tvshow.gif)
+
 You can check the tv shows in four different categories
 
 - Airing today
@@ -69,3 +71,7 @@ Before running the project you'll need a tmdb api key, which you'll get for free
   It should be like
 
   `VITE_API_KEY = PASTE_THE_API_KEY_HERE`
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/ShirajShrestha/TheFlexTV
